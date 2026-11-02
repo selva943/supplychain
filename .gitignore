@@ -36,3 +36,4 @@ Tamil Nadu Supply Chain Control Tower.png
 *.njsproj
 *.sln
 *.sw?
+.env
