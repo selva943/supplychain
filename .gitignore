@@ -1,0 +1,38 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+dist
+dist-ssr
+*.local
+scratch/
+
+# Operational records and locally selected source data
+*.xlsx
+*.xls
+*.csv
+src/data/supply-chain/*.sample.ts
+src/data/tamil-nadu/locations.ts
+src/data/tamil-nadu/routes.ts
+Supply_Chain_Dashboard_Analysis_Report.md
+
+# User-provided design references
+Tamil Nadu Neon Supply Chain Control Tower.png
+Tamil Nadu Supply Chain Control Tower.png
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
